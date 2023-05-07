@@ -1,0 +1,11 @@
+Make the print system better. I don't want to see a single green line in the main file. -> Done
+
+On "warning_non_digit_character_in_pi_list" pass the non-digit-character as parameter and print it to the user.
+
+Implement check_pi_in_epochs function, this should {
+    
+    - Separate the user pi input in epochs. Epochs size should also be an input.
+    - Identify and print to user correct and incorrect epochs.
+    - Should I rename "epochs" to "chunks"?
+
+}
